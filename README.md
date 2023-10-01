@@ -1,4 +1,4 @@
-# Asphalt Pavement Crack segmentation U-Net 
+# Asphalt Pavement Crack Segmentation U-Net 
 
 I have used the following methods.
 
